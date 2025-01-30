@@ -1,1 +1,1 @@
-# tennis_detection
+This repository details the code for detecting the lines and the ball during a tennis match. I have follow the Youtube Video at this link to implement the code : https://www.youtube.com/watch?v=L23oIHZE14w&t=6389s 
